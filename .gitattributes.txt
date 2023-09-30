@@ -1,4 +1,0 @@
-*.csv linguist-detectable=true
-*.csv linguist-language=CSV
-*.csv diff=csv
-*.csv text eol=lf
